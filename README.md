@@ -5,8 +5,14 @@ Evergreen Leaf
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
-Equipe:
+**Equipe:**
 - [HenriqueVogelsanger](https://github.com/HenriqueVogelsanger)
 - [Ruan Miguel Andrade da Silva](https://github.com/rumians)
 - [Gabriel Henrique Pereira](https://github.com/GabrielHenrique1784)
 - [Davi da Rosa](https://github.com/ohdavir)
+
+**Links do Projeto:**
+- [Documentação](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
+- [Figma](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
+- Frontend: [Repositorio](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
+- Backend: [Repositorio](https://github.com/HenriqueVogelsanger/Evergreen-Leaf-PI)
